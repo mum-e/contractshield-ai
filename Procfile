@@ -1,1 +1,1 @@
-web: streamlit run contractshield_frontend.py --server.port=$PORT --server.address=0.0.0.0
+
